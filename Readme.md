@@ -11,7 +11,7 @@ Time Taken to complete
 
 [Live Link](https://hemanth-paytmclone.netlify.app/)
 
-![Paytm](./screencapture-hemanth-paytmclone-netlify-app-2022-09-02-01_24_06.png)
+![Paytm](./images/demopic.png)
 
 Techstack
 
